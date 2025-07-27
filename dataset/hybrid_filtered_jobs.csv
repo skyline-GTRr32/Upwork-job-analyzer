@@ -1,0 +1,492 @@
+Description,decision
+"We are seeking an experienced professional to assist with CRM integration and lead management using AI automation. The ideal candidate will have a deep understanding of CRM systems and experience in streamlining processes for efficient lead tracking and management. You will be responsible for identifying integration opportunities, implementing AI solutions, and optimizing workflows to enhance productivity. If you have a passion for technology and improving business operations, we want to hear from you! this is the website https://imperialskillsacademy.ca/",Skip
+"Build N8N Workflow for AI-Powered Outbound Calling with Telnyx Integration
+
+Description:
+We’re looking for an expert to help us build a high-volume outbound calling automation using a self-hosted N8N server. The setup involves:
+
+Telnyx for outbound and inbound call handling
+
+LLM: Grok via Maverick
+
+TTS: DeepGram or VAPI
+
+Transcriptor: Deepgram NOVA3
+
+Campaign-based call logic (lead filtering, batching, etc.)
+
+You should have experience integrating AI models and VoIP systems into automated workflows (preferably N8N), and be capable of optimizing for concurrency and scale (60,000+ calls/hour).
+
+Please include past experience with similar setups and your approach to handling real-time voice conversations with AI.",skip
+"
+Summary
+
+I’m the founder of a rapidly growing digital agency specializing in personal branding, content systems, website development, and business growth. We’re currently building out the backend of our operations in Notion, and I’m looking for a highly-skilled Automation & AI expert to help bring clarity, structure, and efficiency to our workflows.
+
+I’m currently managing all aspects of the business and need to build systems that allow for smooth delegation and team collaboration. Your role will be essential in helping us automate repetitive tasks, reduce friction, and scale smart.
+
+⸻
+
+What You’ll Be Doing:
+• Auditing current workflows and identifying high-leverage automation opportunities
+• Designing and implementing automations using Zapier, Make (Integromat), and N8n
+• Creating clear, repeatable automation logic based on my vision and operational flow
+• Integrating tools and apps (e.g., Notion, Google Workspace, Slack, ConvertKit, ManyChat) to streamline business processes
+• Building centralized dashboards and automation triggers inside Notion
+• Collaborating with me and occasionally other team members to understand needs and bottlenecks
+• Documenting all automations and creating clean, accessible SOPs for future use
+
+⸻
+
+Requirements:
+• Proven experience with Notion, Zapier, Make (Integromat), and N8n
+• Strong systems thinking and ability to map operational flows into automations
+• Ability to troubleshoot and debug automations quickly and efficiently
+• Solid understanding of APIs and webhook logic
+• Bonus: Experience integrating AI tools or ChatGPT workflows into backend operations
+• Excellent communication and documentation skills
+• Ability to work independently and deliver clean, scalable systems
+
+⸻
+
+What Success Looks Like:
+• A functional Notion-based backend with integrated automations that save time and reduce manual work
+• A well-documented system that can be easily passed off to new team members
+• Clear automations running across content production, client management, and backend reporting
+• A smoother, more scalable business model that supports our growing team
+
+⸻
+
+Terms:
+• Hourly
+• Long-term potential if collaboration is effective
+• Prefer candidates who can begin immediately
+
+⸻
+
+To Apply:
+Please respond with:
+1. A short intro and your experience with Notion + automation platforms
+2. Specific examples of business automation you’ve created
+3. A quick suggestion on what areas you would likely prioritize automating first in a service-based business
+
+Let’s build something efficient and scalable together.",skip
+"I’m a real estate investor in Colorado looking to build the most efficient, automated, and scalable lead generation system possible. I want to utilize my knowledge of the real estate market, negotiation, and capital, combined with the expertise of others on the tech side—my goal is to create systems to maximize seller leads.
+
+I’m looking for someone to:
+
+Build, integrate, and automate my REsimpli + GoHighLevel + Propstream system
+
+Set up cold SMS campaigns, follow-up sequences, and auto-tagging logic
+
+Connect all tools via Make (Integromat), Zapier, or best available solution
+
+Identify and implement best practices for lead conversion, response filtering, and notification
+
+Tools we are using (or willing to switch if you recommend better):
+
+REsimpli (lead tracking + skip tracing)
+
+GoHighLevel (SMS campaigns + CRM)
+
+Propstream (data source)
+
+Make and Zapier (automation + webhook connections)
+
+Deliverables:
+
+Fully working system: new lead comes in → auto-qualified → sent SMS → moved to CRM
+
+At least 1 cold SMS sequence launched to skip-traced list
+
+System to tag and notify me when a lead is ""hot""
+
+Optional: landing page or capture funnel to feed more leads into system
+
+
+Who I'm Looking For:
+
+Someone who’s done this before (real estate lead gen preferred)
+
+Can work independently and troubleshoot integration errors
+
+Experience with U.S. compliance (TCPA, SMS opt-out language)
+
+Preferred (but not required):
+
+Experience with AI responders or lead qualifying chat flows
+
+Ability to help source or manage VAs
+
+Can suggest tools if there’s a better stack than what I listed
+
+Budget: Open to proposals based on deliverables. I’m willing to pay more for quality and speed.
+
+How to Apply:
+Send:
+
+Examples of systems you’ve built
+
+Estimated timeline
+
+Fixed price or hourly
+
+Your experience with REsimpli, GoHighLevel, or Propstream",skip
+"I'm seeking someone to create a straightforward automation workflow to streamline our internal daily reporting process.
+
+Here’s the goal: employees will complete a form each day to log what they've worked on. Their responses should automatically populate a Google Sheet. One of the form fields will be an open-ended text area where team members describe their tasks for the day. This free-text content needs to be automatically summarized, capturing only the main points, and the summary should appear in a separate column within the same sheet.
+
+The spreadsheet will also include standard fields such as date, employee name, and department, but the core focus is on automating both the data collection and the summarization steps.
+
+I'm flexible with tools, Google Forms, Typeform, n8n, or any similar platform is fine. For summarizing the text, using OpenAI or another reliable summarization solution is perfectly acceptable",Apply
+"We are seeking a skilled n8n developer to help us automate workflows and integrate various applications. The ideal candidate will have extensive experience with n8n and a strong understanding of APIs. You will be responsible for designing, implementing, and maintaining automation processes that improve efficiency. If you are detail-oriented and enjoy problem-solving, we want to hear from you!
+
+🔍 Job Description:
+We are seeking a highly skilled n8n developer to build two advanced, production-ready automation workflows focused on content generation and backlink crawling.
+
+This is a performance-critical build. The workflows must be scalable, clean, and optimized for high-volume execution.
+
+✅ Workflow 1 – AI-Powered Content Generator
+Build a workflow that uses OpenAI’s GPT models (GPT-4o, 4o Mini, or 4.1 Mini) to generate thousands of SEO-optimized articles.
+
+Key Requirements:
+
+Manual form or spreadsheet input for:
+
+Campaign folder name
+
+Topic
+
+Keywords
+
+Article count
+
+Tone (selectable: professional, persuasive, etc.)
+
+Tier level (Tier 1 = plain, Tier 2 = Spintax)
+
+Generates eight hundred to one thousand word articles in valid HTML with proper headings
+
+Optional GPT-based Spintax spinning for Tier 2 content
+
+Multi-API key support (load-balanced or round-robin)
+
+Batch execution and parallel processing
+
+MD5 or equivalent deduplication logic
+
+Retry logic and error handling
+
+Local file storage on a Windows machine (e.g., C:\Content\CampaignName\)
+
+Optional Spintax validator to ensure output integrity
+
+✅ Workflow 2 – Backlink Crawler / Pinger (No Footprint)
+Build a secondary workflow to safely crawl and ping large volumes of backlinks to simulate indexing behavior.
+
+Requirements:
+
+GET requests to URLs with randomized user agents, headers, and referrers
+
+Optional proxy rotation support
+
+Lightweight footprint (avoid obvious automation signatures)
+
+Optional scheduling or throttling to prevent overload
+
+Simple CSV or text input list for crawl targets
+
+🎯 Ideal Candidate Has:
+Deep experience building complex n8n workflows
+
+Solid knowledge of OpenAI’s GPT models and token usage
+
+Familiarity with Spintax formatting and bulk content automation
+
+JavaScript/Node.js experience for use in Function nodes
+
+Understanding of HTTP headers, crawling, and stealth techniques
+
+Experience working with Windows-based file systems
+
+📁 Deliverables:
+Two production-ready n8n workflows (.json exports)
+
+Bulk Article Generator (with Spintax for Tier 2)
+
+No-footprint Backlink Crawler
+
+Sample test runs with sample folders and outputs
+
+Light documentation for how to use and adjust workflows
+
+💬 To Be Considered, Please Include:
+Examples of past n8n workflows or automations you've built
+
+Details on your experience with OpenAI or content automation
+
+Your preferred pricing model (fixed or hourly)
+
+Estimated timeframe to deliver both workflows
+
+This project is for automation professionals only — please apply if you've built serious production-level n8n workflows.",Skip
+"We are seeking an experienced developer to create an AI chatbot designed to qualify leads effectively and integrate seamlessly with Salesforce.
+
+We’re looking for a no-code or low-code chatbot specialist to help us integrate an AI chatbot on our WordPress website using plug-and-play tools. The chatbot should qualify leads, gather key information, and integrate with Salesforce to create and manage leads automatically.
+
+This will be the first step in a longer roadmap, with future functionality extending the chatbot to serve existing or under-contract customers as well. So we want to lay a solid, scalable foundation using intuitive and well-supported tools — no custom code preferred.
+
+⸻
+
+🎯 Project:
+• Recommend and implement a plug-and-play chatbot solution (e.g., Landbot, Tidio, Botpress, Chatbase, or any other etc.)
+• Set up chatbot on a WordPress website with a conversational flow that collects lead info
+• Integrate the chatbot with Salesforce to create qualified leads
+• Ensure the chatbot can respond to FAQs for the leads(we’ll provide the content)
+        •.     Ideally the chatbot should have the ability to transfer to live agent during working hours.
+• Design the setup to be modular and extendable for future enhancements (like support for active clients)
+
+⸻
+
+🔍 What We’re Looking For:
+• Experience setting up AI/chatbots and integrating with website (our is currently on WordPress) sites using no-code tools
+• Familiarity with Salesforce integration (native or via tools like Make.com or Zapier)
+• Strong eye for UX, clean conversational flow, and brand tone
+• Strategic mindset — can recommend tools and setup that are scalable and maintainable
+• Good communicator, responsive, and able to work independently
+
+⸻
+
+🚀 Bonus (Nice to Have):
+• Knowledge of real estate or land investment lead generation
+• Multilingual chatbot capability (esp. Spanish)
+• Familiarity with OpenAI or GPT-powered flows
+
+⸻
+
+📌 Project Info:
+• Start: ASAP
+• Duration: 1–2 weeks (initial version)
+• Budget: Open to fixed-price or hourly proposals
+• Potential for future work as we expand functionality
+
+⸻
+✅ To Apply:
+Please share:
+• Relevant chatbot projects you’ve built (WordPress + CRM preferred)
+• Your suggested approach and high-level solution for this use case
+        • Tools/platforms you'd recommend for this solution.
+• Hourly rate or total project estimate",Skip
+"I’m looking for a freelancer experienced with make/n8n automation to help me streamline my YouTube workflow. Ideally I would prefer make.com. The goal is to automate the following steps:
+
+Workflow Steps:
+1. Input: A single YouTube video title
+2. Script Generation: Use ChatGPT to generate a full video script, character description, image prompts, voiceover script
+3. Image Generation: Open source tool with reference image for consistent character
+4. Video Generation: Open source tool cloud hosted
+5. Video Assembly: Uses ffmpeg or other to create final MP4 using background music and visuals
+6. Metadata & Upload: Generates optimized YouTube title, description, hashtags using GPT and uploads the video + thumbnail via YouTube API
+
+Ideal Candidate:
+- Proven experience with make/n8n
+- Experience with Docker would be great
+- Comfortable with APIs, ChatGPT prompts, and Google integrations
+- Familiarity with YouTube content creation or TTS/image AI tools
+
+Note:
+This could lead to more automation work (Lip synch generator integration)
+
+To apply, please include:
+- Examples of similar YouTube workflows you've built
+- What tools you’d use for image and video generation
+- Estimated time to deliver",Skip
+"We’re building an AI-powered messaging assistant using a visual automation platform and AI text generation tools, and we need help solving a specific behavior.
+
+🧠 The Challenge
+
+When users send several short messages in a row (e.g., “hi” → “quick question” → “what’s the price?”), our system currently responds to each message individually.
+This results in multiple robotic replies instead of one natural answer.
+
+We want to improve the experience by:
+• Waiting briefly after each incoming message
+• Collecting all messages sent during that short window
+• Sending one smart, combined reply using AI-generated text
+
+⸻
+
+✅ Your Goal
+
+Design and help us implement a solution that:
+• Waits for a short time (e.g. 60 seconds) after each message
+• Collects messages sent in that window
+• Sends one natural, AI-generated reply when the user stops typing
+• Uses only workflow automation tools and AI modules
+• Avoids any time-based schedulers or loops
+• Is event-driven, simple to maintain, and cost-efficient
+• Prevents double replies and handles timing correctly
+
+⸻
+
+🧰 What We’re Using (Tools)
+
+We’ll be working with:
+• A visual workflow builder that supports webhooks, data storage, HTTP modules, and delay logic
+• A conversational messaging platform with automation support
+• AI text generation tools (e.g., completion API) integrated inside our workflow scenarios
+
+We’ll share specifics with shortlisted candidates.
+
+⸻
+
+🤝 What You’ll Do
+• Review our current automation flow (we’ll provide access or diagrams)
+• Suggest one or two smart architecture options (preferably event-driven)
+• Help implement the core logic, or guide our dev team
+• Help shape the AI text generation prompt for better replies
+• Optional: Add simple logging and error fallback logic",Apply
+"We’re looking for a freelancer to help us set up a simple content automation flow for our Instagram page using Make, ChatGPT, and Google Sheets.
+
+The process is divided into 5 clear steps, and our team will manually approve each stage before moving to the next.
+
+✅ Workflow Overview:
+1. AI Title Generation
+2. AI Caption Writing
+3. AI Image Prompt + Image Generation
+4. Applying Filter to Image and Adding Title
+5. Scheduling
+
+🧩 Additional Notes:
+- We’ll provide all the prompts and examples for the AI tools.
+- We are looking for someone who can organize this flow end-to-end, keeping it modular and easy to update in the future.
+
+💸 Budget & Timeline:
+We are working with a limited budget, but we offer:
+- Clear instructions.
+- Friendly and fast communication.
+- A guaranteed 5-star review if the job is completed as agreed.
+
+This project is ideal for someone looking to build their Upwork reputation with a solid, practical automation setup.",Apply
+"We are a real estate company seeking an experienced make.com and N8N expert to troubleshoot errors in our ongoing automation scenario. In addition to resolving existing issues, we need assistance in designing and implementing two new automation scenarios tailored to our business needs. If you have a proven track record in automation solutions and a deep understanding of these platforms, we want to hear from you. Your expertise will help streamline our operations and enhance efficiency.",Skip
+"We’re looking for someone who has already built a content automation system using Make.com + ChatGPT that runs smooth, fast, and scales across all social platforms.
+
+⚠️ Do NOT apply unless you’ve done this before.
+⚠️ Do NOT apply unless your system can generate and distribute content consistently, at scale, with smart features built in.
+
+What We’re Building:
+A content machine that:
+
+Takes raw input (text, blogs, notes, etc.)
+
+Uses ChatGPT to create short/long-form content
+
+Distributes it across multiple social platforms
+
+Runs with minimal human involvement
+
+Must-Have:
+✅ Proven experience building exactly this
+✅ Strong with Make.com + ChatGPT
+✅ Reliable, fast communicator, easy to work with
+✅ Obsessed with clean systems and great automations
+
+To Apply:
+Send:
+
+1–2 examples of similar automations you’ve built
+
+Quick answers to:
+
+Have you done this exact system before?
+
+What made it successful?
+
+Why should we trust you with this?",Skip
+"Are you experienced with automation tools like n8n and Make.com? We’re looking for a skilled automation specialist to streamline our Instagram content workflow and help us scale our social media presence with minimal manual effort.
+What You’ll Do:
+Design and build automation workflows to schedule and publish Instagram posts.
+
+Connect various tools (Google Drive, Airtable, Notion, etc.) with Instagram using n8n and Make.com.
+
+Set up triggers and conditions for automated posting based on content calendars or file uploads.
+
+Implement fail-safes, error handling, and basic reporting on post success/failure.
+
+Optimize and document the automation process for easy maintenance and handover.
+
+What We’re Looking For:
+Hands-on experience with n8n and/or Make.com (Integromat).
+
+Strong understanding of Instagram posting via automation tools or API.
+
+Comfortable with setting up multi-step workflows involving content management systems and cloud storage.
+
+Ability to troubleshoot and maintain automation scenarios.
+
+Bonus: Familiarity with Instagram Content API limitations and workarounds.
+
+Work on real-world automations that make an immediate impact.
+
+Opportunity to innovate and build efficient workflows from the ground up.
+
+$50 fixed price for working automation solution.
+Ideal completion date: within 4 to 5 days.",skip
+"Hey there! I run a video content agency and we’re building internal automations to speed things up.
+
+Looking for someone who knows their way around n8n or Make.com. You don’t need to be a senior dev — as long as you’re confident using the platform, following instructions, and debugging simple issues, we’re good.
+
+What You’ll Do:
+• I’ll send over a JSON file, Make blueprint, or YouTube tutorial
+• Your job is to import it, set it up, and tweak as needed for my use case
+• Sometimes it’s just changing a webhook or filter — pretty light work
+
+Requirements:
+• Familiar with n8n or Make.com (ideally both)
+• Can follow and adapt workflows from templates or video walkthroughs
+• Strong attention to detail — automations should work cleanly without breaking
+• Good communicator and fast turnaround
+
+Bonus (but not required):
+• Familiarity with Airtable, Notion, Calendly, Instagram, or Stripe
+• Experience with Zapier-style logic and webhook/API basics
+
+This is a task-based, ongoing role — I’ll have projects for you weekly or monthly. Perfect if you’re already working with automation clients or just looking to sharpen your skills while getting paid.
+
+If this sounds like a fit, send:
+• A quick note about your experience
+• A screenshot or Loom of any automation you’ve built (if possible)",Apply
+"I m looking for someone experienced with n8n to help automate a few tasks using OpenAI API and other tools. The goal is to connect services, move data automatically, and save time on repetitive work. What I need: •  Set up a simple n8n workflow •  Connect OpenAI API and a few other apps •  Make sure data flows smoothly between them If you’ve worked with n8n and APIs before, this should be quick and straightforward. Looking to get it done fast, please send a short note with your experience.",Apply
+"We are looking for a highly experienced N8N Automation Expert with at least 5 years of hands-on experience in designing, implementing, and maintaining automation workflows using N8N. The ideal candidate will have a strong background in workflow automation, API integrations, cloud platforms, and scripting, and must be capable managing complex automation projects across departments.
+
+Requirements:
+- 5+ years of experience in automation and integration (at least 3 years specifically with N8N)
+- Deep understanding of APIs, JSON, and authentication protocols (OAuth2, API keys)
+- Proficiency in JavaScript or low-code scripting for N8N functions
+- Experience with tools like Make (Integromat), Zapier, or similar is a plus
+- Familiarity with cloud platforms (AWS, GCP, or DigitalOcean) and containerization (Docker)
+
+Preferred Qualifications:
+- Experience automating business processes such as CRM, calendar scheduling, Slack/email alerts, Airtable syncing, etc.
+- Experience deploying N8N on custom environments (e.g., VPS, Docker Swarm, Kubernetes)
+- Background in SaaS or tech-driven startups
+
+(Do not boost your proposal)
+Please attach or link to at least one sample project you've completed using N8N.",Skip
+"We are seeking a skilled freelancer to assist with fixing or building a small n8n workflow for automation purposes. The ideal candidate should have experience in creating efficient workflows in n8n and troubleshooting any existing issues. Your expertise will help streamline our processes and enhance productivity. If you have a knack for automation and problem-solving, we'd love to hear from you!",Skip
+"Need following DONT apply if not used below:
+
+Twillio
+N8n
+Elevenlabs
+Rettel(optional)
+
+You MUST have proven projects you have worked on previously on Upwork.
+
+
+Your AI reception must be able to answer back from looking at previous calls and FAQ, knowledge base. Helping reduce calls for software helpdesk team.
+
+
+
+
+
+We are looking for a skilled developer to create an AI-powered inbound phone receptionist. This AI system will handle help desk queries related to our specific software. The ideal candidate will have experience in AI development, natural language processing, and voice recognition technologies. Your role will include designing and implementing the system to ensure it can efficiently manage user inquiries and provide accurate responses. If you have a passion for innovation in customer service solutions, we would love to hear from you!",Skip
+"We are seeking an experienced automation specialist to design and implement workflows using N8N and Make.com. The ideal candidate will have a proven track record of creating seamless automations that enhance productivity and streamline processes. You will be responsible for understanding our requirements, developing custom solutions, and ensuring smooth integration between various applications. Strong problem-solving skills and attention to detail are essential for this role.",Apply
