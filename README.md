@@ -72,12 +72,6 @@ Follow these steps to set up and run the analyzer on your local machine.
     source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
     ```
 
-3.  **Install Dependencies**
-    Install all the required Python libraries from the `requirements.txt` file.
-    ```sh
-    pip install -r requirements.txt
-    ```
-
 4.  **Train the AI Model**
     Before you can run the app, you need to train the model on the provided labeled data. This will generate the `job_classifier_model.pkl` file inside the `src/` folder.
     ```sh
