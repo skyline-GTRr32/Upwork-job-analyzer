@@ -23,6 +23,18 @@ This project solves that problem by providing an AI-powered assistant that analy
 -   **Interactive Web App:** A clean, minimal, and aesthetic user interface built with Streamlit for easy interaction and analysis.
 -   **Reproducible Workflow:** The project is structured with separate scripts for training and inference, making it easy to retrain and improve the model with new data.
 
+## ⚡ Live Example
+
+Here is a real analysis performed by the app. The job description was for an "n8n specialist" where the client provides the JSON templates.
+
+![Live Test](./Images/Tesr.png)
+
+The model recommended **✅ Apply** with **50.6% confidence**. This is a fascinating result and highlights the power of the hybrid approach:
+-   **Rule-Based Brain:** None of the hardcoded keywords were found in the text.
+-   **NLP Brain:** The model analyzed the underlying language patterns and found them to be slightly more similar to the "Apply" jobs it was trained on, even without explicit keyword matches.
+-   **Conclusion:** This shows the model is not just a simple keyword checker; it's making nuanced decisions based on the statistical properties of the text itself.
+
+
 ### 📈 Model Performance
 
 The current model was trained on a labeled dataset of niche AI automation jobs and achieves a respectable **80% accuracy** on the unseen test set.
@@ -50,7 +62,7 @@ Follow these steps to set up and run the analyzer on your local machine.
 
 1.  **Clone the Repository**
     ```sh
-    git clone https://github.com/[YOUR_USERNAME]/[YOUR_REPO_NAME].git
+    git clone https://github.com/skyline-GTRr32/Upwork-job-analyzer.git
     cd upwork-job-analyzer
     ```
 
@@ -107,6 +119,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👤 Contact
 
-okki - [Link to your GitHub Profile]
+okki - [skyline-GTRr32](https://github.com/skyline-GTRr32]
 
 ---
